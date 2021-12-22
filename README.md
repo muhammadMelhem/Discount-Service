@@ -16,6 +16,8 @@ Discount Service would claculate the discount on bills bsed on the user type.
 
 ● Docker Container
 
+# UML Diagram:
+![alt text](https://github.com/muhammadMelhem/Discount-Service/blob/main/Discount-Service-entities-UML_DIAGRAM.jpg?raw=true)
 
 ## Getting Started
 
